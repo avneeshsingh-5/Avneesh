@@ -32,7 +32,7 @@ By tilting the controller (with MPU6050), the car moves forward, backward, left,
 
 
 ## 🎥 Demo Video
-[Click here to watch the demo]([https://drive.google.com/file/d/1wLg6XZsWouR3Fb6xiKxDd9BF8RGq_Dy1/view?usp=drive_link])
+[Click here to watch the demo](https://drive.google.com/file/d/1wLg6XZsWouR3Fb6xiKxDd9BF8RGq_Dy1/view?usp=drive_link)
 
 
 ## 💡 Skills Learned
