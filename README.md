@@ -28,13 +28,15 @@ By tilting the controller (with MPU6050), the car moves forward, backward, left,
 
 
 ## 📷 Project Images
-### Car Body
-![Car 1](1.jpg)
-![car 2](2.jpg)
+<p align="center">
+  <img src="1.jpg" alt="Car Prototype" width="45%"/>
+  <img src="2.jpg" alt="Remote Controller" width="45%"/>
+</p>
 
-### Circuit Diagram
-![Circuit Diagram 1](CKT1.jpg)
-![Circuit Diagram 2](CKT2.jpg)
+<p align="center">
+  <img src="CKT1.jpg" alt="Circuit 1" width="45%"/>
+  <img src="CKT2.jpg" alt="Circuit 2" width="45%"/>
+</p>
 
 
 
