@@ -28,8 +28,7 @@ By tilting the controller (with MPU6050), the car moves forward, backward, left,
 
 
 ## 📷 Project Images
-(Add your circuit images/photos here — you can upload them in the repo and use Markdown:  
-`![alt text](image-file-name.jpg)` )
+
 
 
 ## 🎥 Demo Video
